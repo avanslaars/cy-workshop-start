@@ -1,7 +1,7 @@
 # Test a React TodoMVC with Cypress
 
 
-This repository is the starting point a Cypress workshop. I encourage you to clone this repo and follow along.
+This repository is the starting point for a Cypress workshop. I encourage you to clone this repo and follow along.
 
 ## Setup
 
